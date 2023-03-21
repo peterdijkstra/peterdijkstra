@@ -1,3 +1,1 @@
-- peter dijkstra
-- freelance game developer (mostly unity)
-- i am learning rust in my free time
+freelance game dev (mostly unity), aspirational rustacean, 3d printing baby
